@@ -1,2 +1,2 @@
 # portal-anime
-Portal web anime 
+Portal web desenvolvido para a Universidade.
